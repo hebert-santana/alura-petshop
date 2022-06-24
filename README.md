@@ -1,4 +1,4 @@
-# Página de Petshop
+# Página de cadastro para Petshop
 ## Projeto (finalizado :white_check_mark:)
 
 Projeto realizado durante o curso <strong><em>"JavaScript na Web: validação de Formulários e HTML5</em></strong> realizado na <strong>Alura</strong>.
@@ -8,10 +8,6 @@ Projeto realizado durante o curso <strong><em>"JavaScript na Web: validação de
 * HTML
 * CSS
 * Javascript
-
-## 🌐 Site
-
-<https://hebert-santana.github.io/alura-petshop/>
 
 ## Autor
 
